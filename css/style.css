@@ -79,8 +79,8 @@ img, video, audio {
 
 /* LAYOUT*/
 * {
-  /*-webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;*/
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -96,7 +96,7 @@ img, video, audio {
 
 .col-2 {
   float: left;
-  width: 66%;
+  width: 64%;
 }
 
 .col-3 {
